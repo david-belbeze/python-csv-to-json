@@ -116,7 +116,7 @@ The content of the output.json will be
 ]
 ```
 
-## License
+## License MIT
 
 Copyright 2019 David BELBEZE
 
